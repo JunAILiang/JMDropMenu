@@ -6,7 +6,7 @@
 ![](https://github.com/JunAILiang/JMDropMenu/raw/master/JMDropMenu/JMDropMenu.gif)  
 
 # 如何使用
-* 通过CocoaPods导入 `pod 'JMDropMenu', '~> 0.1'`
+* 通过CocoaPods导入 `pod 'JMDropMenu', '~> 0.1.1'`
 * 手动导入 直接下载工程把 `JMDropMenu` 文件夹导入到自己工程中
 
 ## 初始化数据
