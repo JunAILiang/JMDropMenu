@@ -2,8 +2,8 @@
 仿QQ、微信下拉菜单封装, 一行代码实现QQ和微信的下拉菜单
 * 支持自定义样式
 * 支持CocoaPods
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
-![](https://github.com/JunAILiang/JMDropMenu/raw/JMDropMenu/JMDropMenu.gif)  
+
+![](https://github.com/JunAILiang/JMDropMenu/raw/master/JMDropMenu/JMDropMenu.gif)  
 
 # 如何使用
 * 通过CocoaPods导入 `pod 'JMDropMenu', '~> 0.1'`
