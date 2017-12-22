@@ -26,6 +26,21 @@ self.imageArr = @[@"img1",@"img2",@"img3",@"img4",@"img5"];
     NSLog(@"index----%zd,  title---%@, image---%@", index, title, image);
 }
 ```
+## 你也可以高度自定义
+```
+/** 文字颜色 */
+@property (nonatomic, strong) UIColor *titleColor;
+/** 线条颜色 */
+@property (nonatomic, strong) UIColor *lineColor;
+/** 箭头x偏移值 */
+@property (nonatomic, assign) CGFloat arrowOffset;
+/** 布局类型 (图片再左, 文字在右) */
+@property (nonatomic, assign) JMDropMenuLayoutType LayoutType;
+/** 箭头的颜色(UIColor类型) */
+@property (nonatomic, strong) UIColor *arrowColor;
+/** 箭头的颜色(16进制类型, 传16进制值即可, 例 #ffffff) */
+@property (nonatomic, copy) NSString *arrowColor16;
+```
 
 #### 联系我:
    * qq: 1245424073
